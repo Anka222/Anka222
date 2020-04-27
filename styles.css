@@ -117,3 +117,21 @@
     font-size:35px;
     margin-right:15%;
 }
+#footer {
+    width: 100%;
+    padding: 30px;
+    border: 10px ForestGreen;
+    margin: auto;
+    background-color: ForestGreen;
+    top: 2;
+    z-index: 2;
+    position: sticky;
+}	
+#footer p{
+    font-family: "Georgian", serif;
+    font-style: bold;
+    font-weight: 900;
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
